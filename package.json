@@ -2,6 +2,7 @@
   "name": "hooks.guide",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://reacthooks-guide.vercel.app",
   "dependencies": {
     "@babel/standalone": "^7.1.0",
     "babel-plugin-macros": "^2.4.2",
