@@ -12,10 +12,10 @@
     "prettier": "^1.14.3",
     "prismjs": "^1.15.0",
     "raw.macro": "^0.2.0",
-    "react": "^16.8.1",
+    "react": "^17.0.2",
     "react-ace": "^6.2.0",
     "react-cache": "16.6.0-alpha.8af6728",
-    "react-dom": "^16.8.1",
+    "react-dom": "^17.0.2",
     "react-ga": "^2.5.3",
     "react-router-dom": "^4.3.1",
     "react-scripts": "2.0.5",
@@ -25,7 +25,7 @@
     "typeface-nunito": "^0.0.54"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
